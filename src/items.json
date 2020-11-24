@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Red",
+    "category": "Primary Color",
+    "priceCents": 1600,
+    "imageColor": "F00",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 2,
+    "name": "Yellow",
+    "category": "Primary Color",
+    "priceCents": 2100,
+    "imageColor": "FF0",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 3,
+    "name": "Blue",
+    "category": "Primary Color",
+    "priceCents": 1200,
+    "imageColor": "00F",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 4,
+    "name": "Orange",
+    "category": "Secondary Color",
+    "priceCents": 1800,
+    "imageColor": "F60",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 5,
+    "name": "Green",
+    "category": "Secondary Color",
+    "priceCents": 1600,
+    "imageColor": "0F0",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 6,
+    "name": "Purple",
+    "category": "Secondary Color",
+    "priceCents": 2100,
+    "imageColor": "60F",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 7,
+    "name": "Light Gray",
+    "category": "Grayscale",
+    "priceCents": 1200,
+    "imageColor": "AAA",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  },
+  {
+    "id": 8,
+    "name": "Dark Gray",
+    "category": "Grayscale",
+    "priceCents": 1600,
+    "imageColor": "333",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem iure eum facere minima, dolores repudiandae quo animi earum."
+  }
+]
